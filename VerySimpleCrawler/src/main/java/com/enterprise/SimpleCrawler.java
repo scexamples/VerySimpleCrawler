@@ -25,7 +25,6 @@ import com.enterprise.dao.SimpleCrawlerDAO;
  * 
  * @see <a href="http://jsoup.org">http://jsoup.org</a> for jsoup documentation
  * 
- * @author sc
  *
  */
 
