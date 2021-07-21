@@ -10,9 +10,6 @@ import org.jsoup.nodes.Document;
  * The DocumentProcessor class has one field that stores a html Document
  * It has one method, wordCount that returns a map of each word and its count (frequency)in the document
  * The wordCount method processes the words in a case-insensitive manner
- * 
- * 
- * @author sc
  *
  */
 
